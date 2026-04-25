@@ -297,10 +297,8 @@ The lead capture API (`/app/api/lead/route.ts`) includes:
 
 ### AI Tools Used
 
-- **Claude AI**: Primary development assistant
-- **GitHub Copilot**: Code completion and suggestions (if applicable)
-- **ChatGPT**: Content ideation and refinement (if applicable)
-
+- **GitHub Copilot**: Code completion and suggestions
+  
 ## 🚀 Future Improvements
 
 ### Short-term (1-2 weeks)
